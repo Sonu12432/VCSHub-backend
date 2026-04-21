@@ -1,0 +1,1 @@
+This repository contains the backend server for VCSHub, a custom version control platform. Built entirely on Node.js and Express, this RESTful API serves as the bridge between the React frontend client and the MongoDB database. It is designed to be fast and secure, handling everything from JWT-based user authentication to dynamic repository data fetching.
